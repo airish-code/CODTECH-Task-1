@@ -1,1 +1,2 @@
-# CODTECH-Task-1
+# Weather-Forcasting
+Project using HTML , CSS , JS
