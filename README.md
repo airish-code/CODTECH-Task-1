@@ -8,7 +8,7 @@ https://airish-code.github.io/CODTECH-Task-1/
 
 This is a TINY (TINY Is Not YART ([Yet](https://github.com/CarsonChen1129/README-template) [Another](https://gist.github.com/zsim0n/1d943a0f3e5af59e1e1d91a3a1e9eae1) [README](https://github.com/matiassingers/awesome-readme/issues/117) Template)) README template. Put a brief description of the project here, and optionally include a screenshot with a nice frame:
 
-<div align="center">
+<div align="center" m-5>
   <kbd>
     <img src="https://github.com/airish-code/CODTECH-Task-1/blob/main/img.png" />
   </kbd>
