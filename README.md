@@ -24,7 +24,6 @@ Weather forecasting is used for planning daily activities, optimizing agricultur
 
 
 
-### Acknowledgements
 
 
 
