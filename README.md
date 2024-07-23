@@ -10,7 +10,7 @@ This is a TINY (TINY Is Not YART ([Yet](https://github.com/CarsonChen1129/README
 
 <div align="center">
   <kbd>
-    <img src="https://i.imgur.com/zdY3ZC9.png" />
+    <img src="https://github.com/airish-code/CODTECH-Task-1/blob/main/img.png" />
   </kbd>
 </div>
 
